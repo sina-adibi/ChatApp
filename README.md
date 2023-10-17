@@ -10,6 +10,19 @@ All user information and digital exchanges will be hosted securely using Firebas
 Planned enhancements will aim to facilitate interaction while maintaining the atmosphere of courteous exchange. Future updates may allow additional personalization options or expand the capacity for shared interests and organized discussions.
 
 Regardless, the overarching vision remains to cultivate understanding and bring out the best in human connection through innovative and compassionate technology. If you choose to join this journey, I know the creators will welcome your participation with care, respect and gratitude. Progress lies in community, as ever more united we stand.
+## implementation
+> navigation
+
+> firebase
+
+> hilt
+
+> coil
+
+> espresso-core library
+
+> and ........
+
 
 ![image](https://github.com/sina02/ChatApp/assets/99386795/9852ca17-8bd2-4648-8b4a-f18995ce5716)
 ![image](https://github.com/sina02/ChatApp/assets/99386795/dcc8f46b-5ac1-4c15-abbd-7428c7033f07)
