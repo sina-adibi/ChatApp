@@ -25,11 +25,13 @@ Regardless, the overarching vision remains to cultivate understanding and bring 
 
 
 ## image
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/sina02/ChatApp/assets/99386795/9852ca17-8bd2-4648-8b4a-f18995ce5716" alt="image" style="width: 25%; padding: 10px;">
+  <img src="https://github.com/sina02/ChatApp/assets/99386795/dcc8f46b-5ac1-4c15-abbd-7428c7033f07" alt="image" style="width: 25%; padding: 10px;">
+</div>
 
-![image](https://github.com/sina02/ChatApp/assets/99386795/9852ca17-8bd2-4648-8b4a-f18995ce5716)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/sina02/ChatApp/assets/99386795/d637ac62-0e32-4ee3-9071-e31f810e17b9" alt="image" style="width: 25%; padding: 10px;">
+  <img src="https://github.com/sina02/ChatApp/assets/99386795/2b9eb14e-6071-4831-98dd-6652deb4b631" alt="image" style="width: 25%; padding: 10px;">
+</div>
 
-![image](https://github.com/sina02/ChatApp/assets/99386795/dcc8f46b-5ac1-4c15-abbd-7428c7033f07)
-
-![image](https://github.com/sina02/ChatApp/assets/99386795/d637ac62-0e32-4ee3-9071-e31f810e17b9)
-
-![image](https://github.com/sina02/ChatApp/assets/99386795/2b9eb14e-6071-4831-98dd-6652deb4b631)
